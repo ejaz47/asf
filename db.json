@@ -1,0 +1,49 @@
+{
+  "anpr-log-report": [
+    {
+      "txnId": "A000",
+      "time": "11/07/2022 8:00 am",
+      "class": "Series 2",
+      "location": "Delhi",
+      "direction": "East",
+      "confidenceScore": "LHS or RHS",
+      "validation": "Auto"
+    },
+    {
+        "txnId": "A000",
+        "time": "11/07/2022 8:00 am",
+        "class": "Series 2",
+        "location": "Delhi",
+        "direction": "East",
+        "confidenceScore": "LHS or RHS",
+        "validation": "Auto"
+    },
+    {
+        "txnId": "A000",
+        "time": "11/07/2022 8:00 am",
+        "class": "Series 2",
+        "location": "Delhi",
+        "direction": "East",
+        "confidenceScore": "LHS or RHS",
+        "validation": "Auto"
+    },
+    {
+        "txnId": "A000",
+        "time": "11/07/2022 8:00 am",
+        "class": "Series 2",
+        "location": "Delhi",
+        "direction": "East",
+        "confidenceScore": "LHS or RHS",
+        "validation": "Auto"
+    },
+    {
+        "txnId": "A000",
+        "time": "11/07/2022 8:00 am",
+        "class": "Series 2",
+        "location": "Delhi",
+        "direction": "East",
+        "confidenceScore": "LHS or RHS",
+        "validation": "Auto"
+    }
+  ]
+}
